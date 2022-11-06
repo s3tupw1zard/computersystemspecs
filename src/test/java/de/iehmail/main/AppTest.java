@@ -1,4 +1,4 @@
-package de.iehmail;
+package de.iehmail.main;
 
 import static org.junit.Assert.assertTrue;
 
